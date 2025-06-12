@@ -1,5 +1,3 @@
----
-
 # 🎬 Netflix Login Page Clone
 
 A responsive and visually appealing clone of the Netflix login page, built using HTML and CSS. This project serves as a practice exercise to replicate a well-known user interface, enhancing skills in front-end web development.
